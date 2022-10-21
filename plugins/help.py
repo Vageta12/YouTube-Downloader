@@ -6,5 +6,5 @@ async def start(client, message):
     helptxt = f"""Just Send Youtube Url And Select A Quality
 For Download (it can download both audio & video Format)
     
-Queries [rizadッ🕊](https://telegram.me/riz4d)"""
+Queries [HK MIRROR](https://telegram.me/mirrorgrou)"""
     await message.reply_text(helptxt)
