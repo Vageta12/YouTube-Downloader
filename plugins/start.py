@@ -10,7 +10,7 @@ async def start(client, message):
 
         [InlineKeyboardButton(
 
-            "✈ Follow me on Instagram ✈", url="https://instagram.com/rizad__x96?utm_medium=copy_link")]
+            "✈ Support Me on Youtube ✈", url="https://youtube.com/c/HKNPlayz")]
 
     ])
 
@@ -18,9 +18,9 @@ async def start(client, message):
 ɪᴀᴍ ᴀ ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ ʙᴏᴛ..
 sᴇɴᴅ ᴍᴇ ᴛʜᴇ ᴜʀʟ(ʟɪɴᴋ) ᴡʜɪᴄʜ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴅᴏᴡɴʟᴏᴀᴅ..
 
-➪ Bot Name : ʏᴏᴜᴛᴜʙᴇ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ
-➪ Author : [rizadッ](https://telegram.me/riz4d)
-➪ Donate : [Paypal](https://www.payPal.com/paypalme/rizadx96)
+➪ Bot Name : HK YT BOT
+➪ Author : [HK MIRROR](https://telegram.me/mirrorgrou)
+➪ Mirror Group : [Join](https://telegram.me/mirrorgro)
 ➪ Language : Python
 ➪ License Type : GNU(GPL)"""
 
