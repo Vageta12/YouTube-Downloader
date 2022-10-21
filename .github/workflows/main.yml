@@ -32,7 +32,7 @@ jobs:
 
           region: "us"
 
-        py:
+        env:
 
           HD_CONFIG_FILE_URL: ${{secrets.CONFIG_FILE_URL}}
 
